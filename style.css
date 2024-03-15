@@ -1,0 +1,46 @@
+img{
+  height:250px;
+  width:250px;
+  border-radius: 20%;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.6);
+  opacity:0.7
+}
+img:hover{
+  opacity: 1;
+}
+.main{
+  display:flex;
+  justify-content: space-evenly;
+}
+
+h3{
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: small-caps;
+  font-kerning: normal;
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  color: black;
+}
+body{
+  /* background:url("https://i.pinimg.com/736x/9c/72/00/9c7200ad655f7a6850cab682172876c7.jpg"); */
+  background:url("https://i.pinimg.com/564x/d0/76/20/d07620bb237907d2616a46403a3373fc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  padding-top: 10px;
+  padding-bottom: 35px;
+  text-align: center;
+  text-transform: full-width;
+  margin-bottom: 100px;
+  font-size: 85px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: small-caps;
+  font-kerning: normal;
+  color:black;
+
+}

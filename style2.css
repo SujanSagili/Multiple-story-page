@@ -1,0 +1,64 @@
+h1{
+  /* background:url("https://i.pinimg.com/564x/d0/76/20/d07620bb237907d2616a46403a3373fc.jpg"); */
+
+
+  text-align: center;
+  text-transform: full-width;
+  /* margin-bottom: 100px; */
+  font-size: 85px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: small-caps;
+  font-kerning: normal;
+  color:white;
+}
+body{
+  margin: 30px;
+  padding: 30px;
+
+  opacity: 2;
+
+}
+.vijay{
+  background:url("https://i.pinimg.com/736x/6b/18/8c/6b188c38765cfd32bd17e528408ab195.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
+.allu{
+  background: url("https://static.toiimg.com/thumb/99068275.cms?width=680&height=512&imgsize=25088");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dq{
+  background: url("https://images.news18.com/ibnlive/uploads/2022/09/dulquer-salmaan-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.prabhas{
+  background: url("https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/10/23/Rebel-star-Prabhas-New-Stills-from-Saaho-movie-oh-baby-song-.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  height:250px;
+  border-radius: 10px;
+  border-radius: 20%;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.6);
+  padding-left: 10px;
+  padding right: 10px;
+}
+h2,img,hr{
+  margin: 30px;
+  padding: 0px;
+}
+p{
+  margin: 30px;
+  padding: 0px;
+  font-family: 'poppins',sans-serif;
+  box-sizing: border-box;
+  font-weight: 500;
+  opacity: 2;
+  /* align : justify; */
+}
